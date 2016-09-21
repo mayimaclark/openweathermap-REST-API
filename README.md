@@ -4,7 +4,7 @@ This project uses the OpenWeatherMap site to provide a simple REST API to get we
 
 The script will get the current weather data for a particular zip code and print some of the data in a table. For example, the zip code 30144 will have the following output:
 
-Name:                     Kennesaw 
+Name:                     Kennesaw
 Current Temperature:      40.44 degrees Fahrenheit
 Atmospheric Pressure:     992.52 hPa
 Wind Speed                9.86 mph
